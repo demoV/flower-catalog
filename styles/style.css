@@ -1,0 +1,11 @@
+section {
+	display: inline-flex;
+}
+
+nav {
+	margin: 100px 20px;
+}
+
+h1{
+	color: orange;
+}
