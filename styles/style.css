@@ -2,10 +2,22 @@ section {
 	display: inline-flex;
 }
 
+section div {
+	margin: 10px 20px;
+}
 nav {
 	margin: 100px 20px;
 }
 
 h1{
 	color: orange;
+}
+
+section p{
+	/*width: 400px;*/
+	/*margin: 200px 20px;*/
+}
+
+.peraDiv {
+	margin: 200px 20px 20px;
 }

@@ -1,0 +1,31 @@
+I have to make a Flower Catalog Website ....
+
+----------------------------------------------
+1:  Layout. 
+2:	Landing page with some link.
+3:  On that flowers page:
+		A link go back to home page (index.html).
+		Image position on left side on page.
+		Information of flowers on hte right side of the image.
+		A link to download the pdf of information.
+4:	A Guest Book :
+		A link go back to home page (index.html).
+		Two text field to take name & comments.
+		A submit button.
+		A list of comments with :    (And I have to find How to make this box)
+			Date-Time
+			Name
+			Comment
+
+
+-------------------------------------------------------------
+
+Pages to make:
+
+	1: Homepage:
+		index.html 
+	2: Flower page:
+		Abeliophyllum.html
+		Ageratum.html
+	3: Guest page:
+		guest.html
